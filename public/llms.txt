@@ -1,0 +1,104 @@
+# Center Candy Warehouse — Generative Engine Optimization Map
+
+> Center Candy is a warehouse-style candy shop located at 150 Madison Street in Oneida, New York. The business appears to operate retail candy store locations and wants a website that highlights their stores, showcases their candy menu/products, and facilitates ordering. The warehouse format suggests a large selection of candies at potentially bulk or competitive pricing.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover a massive selection of candies at warehouse prices. From Rebecca Ruth candy retail store 3 favorites to squirrel nuts candy retailers, satisfy every craving. Shop now!
+
+### Locations
+https://example.com/locations
+Visit our candy store at 150 Madison Street in Oneida, NY, and explore aisles of confectionery retailers&#39; top picks. Plan your sweet escape to Center Candy Warehouse today.
+
+### Order Info
+https://example.com/order-info
+Get the inside scoop on bulk ordering, shipping, and pickup. From squirrel nuts candy retailers to rare finds, we make ordering confectionery simple. Start your order now!
+
+### Candy Experience
+https://example.com/candy-experience
+Dive into a sensory adventure with towering shelves of sweets. Experience rebecca ruth candy retail store 3 classics and more at our Oneida warehouse. Your candy journey starts here.
+
+### Contact
+https://example.com/contact
+Questions about our candy? Contact the Center Candy Warehouse team in Oneida, NY. We&#39;ll help you locate rebecca ruth candy retail store 3 items and more. Message us today!
+
+### Products
+https://example.com/products
+Our Products - Center Candy Warehouse
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Center Candy Warehouse
+
+### Category
+https://example.com/category/:slug
+Products - Center Candy Warehouse
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Center Candy Warehouse
+Center Candy is a warehouse-style candy shop located at 150 Madison Street in Oneida, New York. The business appears to operate retail candy store locations and wants a website that highlights their stores, showcases their candy menu/products, and facilitates ordering. The warehouse format suggests a large selection of candies at potentially bulk or competitive pricing.
+
+## Target Audience
+- Bulk Candy Shoppers
+- Sweet Treat Enthusiasts
+- Gift Givers
+
+## Industry
+Retail - Candy & Confectionery
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
